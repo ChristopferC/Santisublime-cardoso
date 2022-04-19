@@ -1,0 +1,40 @@
+.cartSection{
+    margin: 2rem auto;
+}
+
+    .cartSection_table{
+        width: 45rem;
+        margin: 2rem auto 1rem auto;
+        text-align: center;
+        border-collapse: collapse;
+    }
+
+        thead{
+            background-color: #a4426b;
+        }
+
+
+                th{
+                    font-size: 1rem;
+                    padding: 1rem;
+                    color: #ffffff;
+                }
+     
+    .emptyCart{
+        width: 45rem;
+        margin: 1rem auto;
+        text-align: right;
+    }
+
+@media(max-width: 768px){
+        .cartSection_table{
+            width: 90%;
+        }
+                    th{
+                        font-size: 0.8rem;
+                        padding: 1rem 0.2rem;
+                    }
+        .emptyCart{
+            width: 90%;
+        }
+    }   

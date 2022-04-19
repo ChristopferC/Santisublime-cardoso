@@ -1,0 +1,17 @@
+.containerMap{
+    margin: 2rem auto;
+}
+
+.containerMap_map{
+    width: 100%;
+    margin: 0rem auto 1rem auto;
+}
+
+@media(max-width: 768px){
+    .containerMap{
+        margin: 2rem auto;
+    }
+    .containerMap_map{
+        width: 100%;
+    }
+}
