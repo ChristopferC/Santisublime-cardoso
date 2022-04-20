@@ -32,9 +32,9 @@
 }
 
 @media(max-width: 992px){
-        .footerMainContent{
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
+    .footerMainContent{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
+}

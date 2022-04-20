@@ -2,54 +2,54 @@
     box-shadow: 0px 1px 0px 0px #406aa9;
 }
 
-    .itemCart_td{
-        font-size: 1rem;
-        padding: 1rem;
-    }
+.itemCart_td{
+    font-size: 1rem;
+    padding: 1rem;
+}
 
-        .itemCart_td_button{
-            display: flex;
-            background: #992e2e;
-            border-radius: 0.5rem;
-            font-weight: 500;
-            text-align: center;
-            border: none;
-            box-shadow:  0 2px 4px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.24);
-            padding: 1rem;
-            color: #ffffff;
-            cursor: pointer;
-        }
+.itemCart_td_button{
+    display: flex;
+    background: #992e2e;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    text-align: center;
+    border: none;
+    box-shadow:  0 2px 4px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.24);
+    padding: 1rem;
+    color: #ffffff;
+    cursor: pointer;
+}
 
-        .itemCart_td_button:hover{
-            background-color: #194da8;
-        }
+.itemCart_td_button:hover{
+    background-color: #194da8;
+}
 
-        .itemCart_td_button:active{
-            transform: scale(.95);
-        }
+.itemCart_td_button:active{
+    transform: scale(.95);
+}
     
-    .itemImage{
-        padding: 1rem;
-    }
+.itemImage{
+    padding: 1rem;
+}
 
-        .itemImage_img{
-            width: 20rem;
-        }
+.itemImage_img{
+    width: 20rem;
+}
     
-    .itemName{
-        text-align: left;
-    }
+.itemName{
+    text-align: left;
+}
 
 
 @media(max-width: 768px){
-        .itemCart_td{
-            font-size: 0.8rem;
-            padding: 1rem 0.2rem;
-        }
+    .itemCart_td{
+        font-size: 0.8rem;
+        padding: 1rem 0.2rem;
     }
+}
 
 @media(max-width: 576px){
-        .itemCart_td{
-            font-size: 0.6rem;
-        }
+    .itemCart_td{
+        font-size: 0.6rem;
     }
+}

@@ -3,12 +3,12 @@
     padding: 2rem 0rem;
 }
 
-    .categories{
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        width: 80%;
-        margin: auto auto;
+.categories{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto auto;
     }
 
 .mainContainer{
@@ -21,19 +21,19 @@
     padding: 2rem 0rem;   
 }
 
-    .infoItems{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin: auto;
-        width: 80%;
-    } 
+.infoItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 80%;
+} 
 
 
 @media(max-width: 992px){  
-        .infoItems{
-            flex-direction: column;
-        } 
+    .infoItems{
+        flex-direction: column;
+    } 
 }
 
 @media(max-width: 768px){
@@ -41,14 +41,14 @@
         background-color: #f5f5f5;
         padding: 2rem 0rem;
     }
-        .categoriesContainer_div{
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            flex-wrap: wrap;
-            width: 80%;
-            margin: auto auto;
-        }
+    .categoriesContainer_div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 80%;
+        margin: auto auto;
+    }
         .categoryCard{
             width: 100%;
         }
@@ -56,12 +56,12 @@
         background-color: #ffffff;  
         padding: 2rem 0rem;     
     }  
-        .infoItems{
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            margin: auto;
-            width: 80%;
-        } 
+    .infoItems{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 80%;
+    } 
 }

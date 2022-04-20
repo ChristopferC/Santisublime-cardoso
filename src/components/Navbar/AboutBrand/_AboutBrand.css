@@ -5,10 +5,8 @@
 }
 
 @media(max-width: 768px){
-    
-        .aboutBrand_img{
-            width: 90%;
-            height: 40%;
-        }
-        
-    }
+    .aboutBrand_img{
+        width: 90%;
+        height: 40%;
+    }    
+}
