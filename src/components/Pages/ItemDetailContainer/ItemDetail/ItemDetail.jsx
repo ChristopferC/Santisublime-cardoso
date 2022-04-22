@@ -45,7 +45,7 @@ const ItemDetail = ({product}) => {
                     <h2 className='itemDetails_h2'>{product.name}</h2>
                     <p className='itemDetails_p'>${product.price}</p>
                     <div className='itemPaymentMethods'>
-                        <p className='itemPaymentMethods_p'>Pagá con Mercado Pago y elegí una de sus distintas formas de pago</p>
+                        <p className='itemPaymentMethods_p'>Pagá con Mercado Pago y elegí la forma de pago que más te guste</p>
                         <img src={MercadoPago} alt='Imagen de los métodos de pago' className='itemPaymentMethods_img'/>
                     </div>
                     <div className='cartButtons'>
