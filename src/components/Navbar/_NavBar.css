@@ -62,11 +62,11 @@ a{
   width: 1rem;
   text-align: center;
   line-height: 4.4rem;
-  margin-left: 0.5rem
+  margin-left: 0.5rem;
 }
         
 a:hover{ 
-  color: #362cf0;
+  color: #9a3756;
 }
 
 .navLinks_ul_li_ul{
@@ -102,7 +102,7 @@ a:hover{
 .navCart{
   display: flex;
   justify-content: flex-end;
-  width: 25%;
+  width: 10%;
   text-align: right;   
 }
 
@@ -121,7 +121,7 @@ a:hover{
     width: 25%;
   }
   .navLogo{
-    width: 50%;
+    width: 60%;
     text-align: center;  
     display: none;
     } 
