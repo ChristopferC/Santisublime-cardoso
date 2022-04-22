@@ -124,7 +124,7 @@ a:hover{
     width: 60%;
     text-align: center;  
     display: none;
-    } 
+  } 
   .navLogo_a{
     font-size: 1.3rem; 
   }  
@@ -167,12 +167,13 @@ a:hover{
     display: none;
   }
   a:hover{ 
-    text-decoration: none;
+    color: #9a3756;
   }
   .navLinks_ul_li_ul{
     position: relative;
     top: 0rem;
     box-shadow: none;
+    background-color:  #3498db;
     display: block;
     border: none;
     opacity: 1;

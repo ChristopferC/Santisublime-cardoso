@@ -24,7 +24,7 @@ function NavBar(){
         </div>
         <div className={menu===false?'navLinks':'navLinks active'} >
             <div className="sidebarLogo">
-                <h2>Santisublime</h2> 
+            <AboutBrand img={Logo}/>
                 <CloseMenuWidget onClick={closeMenu} />
             </div>
             <ul className="navLinks_ul">
