@@ -1,5 +1,5 @@
 # Tienda Santisublime
-La aplicaciónn se centrará en un e-commerce de productos para sublimar. La misma simula una tienda de productos donde el cliente puede elegir entre distintos objetos en blanco para la sublimación.
+La aplicación se centrará en un e-commerce de productos para sublimar. La misma simula una tienda de productos donde el cliente puede elegir entre distintos objetos en blanco para la sublimación.
 Proyecto realizado con ReactJS y Firebase.
 
 # Demo
