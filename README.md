@@ -24,6 +24,6 @@ https://playful-kringle-2dc18b.netlify.app
 
 **React Toastify para las notificaciones 8.2.0**
 
-**Simple-React-Google-Maps para mostrar la ubicación**
+**Simple-React-Google-Maps para mostrar la ubicación 1.1.2**
 
 
